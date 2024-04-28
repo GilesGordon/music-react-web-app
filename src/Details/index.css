@@ -1,0 +1,20 @@
+.wd-img {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+  }
+
+.wd-center {
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+  .wd-max-width {
+    width: "100%"
+}

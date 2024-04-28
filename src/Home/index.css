@@ -1,0 +1,53 @@
+h1 {
+    padding-bottom: 30px;
+}
+
+h2 {
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+a:link { 
+    text-decoration: none; 
+  } 
+
+.wd-album-width {
+    width: 250px
+}
+
+/* .wd-col-width {
+    width: 400px
+} */
+
+.wd-card-body-specs {
+    text-decoration: none; 
+    color: navy; 
+    font-weight: bold
+}
+
+.wd-home-img {
+    max-height: 250px;
+    max-width: 250px;
+}
+
+
+
+.wd-card-padding {
+    padding: 15px;
+}
+
+.wd-card-body {
+    text-decoration: none;
+}
+
+.wd-center {
+    justify-content: center;
+}
+
+/* .wd-space-even {
+    justify-content: center;
+} */
+
+.wd-max-width {
+    width: "100%"
+}
